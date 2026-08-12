@@ -73,5 +73,4 @@ Ezza Batool
 
 Mahrukh Khan
 
-## Department of Data Science
-## Institute of Space Technology, Islamabad
+## Department of Computer Science, IST Islamabad
